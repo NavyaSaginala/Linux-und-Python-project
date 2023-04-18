@@ -1,0 +1,152 @@
+Family	Species	Sugar	Nectar_Volume	Corolla_length	Reference
+Malvaceae	Abutilon regnellii	18.3	16.6	32.7	a
+Malvaceae	Abutilon rufinerve	13	17.9	16	a
+Bromeliaceae	Acanthostachys strobilacea	25.3	9.4	18.8	b
+Bignoniaceae	Adenocalyma sp.	25	25.8	35.7	c
+Bromeliaceae	Aechmea bromeliifolia	28.1	16.1	15.1	b
+Bromeliaceae	Aechmea coelestis	27.3	9	23	c
+Bromeliaceae	Aechmea distichantha	25.4	18.8	12.9	a, b
+Bromeliaceae	Aechmea fulgens	10.6	10.6	20	d
+Bromeliaceae	Aechmea gamosepala	35	20.2	17.9	c
+Bromeliaceae	Aechmea lindenii	26	16.7	10.5	e
+Bromeliaceae	Aechmea lingulata	45	3.4	12	f
+Bromeliaceae	Aechmea miniata	26.5	20.2	16.8	g
+Bromeliaceae	Aechmea muricata	41	31	31.7	d
+Bromeliaceae	Aechmea nudicaulis	26.4	16.6	12.2	a, c, i, k
+Bromeliaceae	Aechmea ornata	28.1	45.8	17.7	c, k
+Bromeliaceae	Aechmea pectinata	28	38.5	25.5	a, c, p
+Bromeliaceae	Aechmea tormentosa	65	65	30.9	d
+Bromeliaceae	Aechmea vanhoutteana	26.8	21.5	10	h
+Ericaceae	Agarista oleifolia	11.5	2.9	10.1	a
+Alstroemeriaceae	Alstroemeria inodora	18.1	10.3	30.7	a
+Bromeliaceae	Billbergia amoena	25.4	57.5	40.5	c, k
+Bromeliaceae	Billbergia distachia	26.5	20.1	40.5	a
+Bromeliaceae	Billbergia morelii	16	16	5.1	d
+Bromeliaceae	Billbergia pyramidalis	33.3	41.8	38.3	a
+Alstroemeriaceae	Bomarea salsilloides	11.6	25.3	31	a, d
+Bromeliaceae	Bromelia plumieri	44	28	30.5	f, d
+Scrophulariaceae	Buddleja brasiliensis	18.9	1.8	9.3	a
+Marantaceae	Calathea crocata	18.5	9.5	23.3	g
+Fabaceae	Camptosema scarlatinum	25.1	10.3	29.7	a
+Bromeliaceae	Canistropsis billbergioides	20.1	13.6	21.7	c
+Bromeliaceae	Canistrum aurantiacum	30	29.1	4	f
+Bromeliaceae	Canistrum terminalis	30.3	15.2	29.6	a
+Brassicaceae	Capparis flexuosa	27.4	59	10	i
+Lobeliaceae	Centropogon cornutus	22.7	28.9	43.4	a, d, g
+Solanaceae	Cestrum corymbosum	14	5.5	14.8	a
+Verbenaceae	Citharexylum myrianthum	13.3	21.3	20.1	c
+Fabaceae	Collaea speciosa	24.6	20.3	28.6	a
+Combretaceae	Combretum fruticosum	36.5	36.5	13.8	d
+Costaceae	Costus spiralis	21	52.1	48.6	a, d, g
+Bromeliaceae	Cryptanthus zonatus	28	10	35	f
+Fabaceae	Dahlstedtia pinnata	20.1	33.7	46.5	a, c
+Bromeliaceae	Edmundoa lindenii	16.6	8.4	19.9	c
+Orchidaceae	Elleanthus brasiliensis	20.6	1.6	9.9	c
+Fabaceae	Erythrina crista-galli	22	158	48	j
+Fabaceae	Erythrina speciosa	37.7	15.2	59.9	a
+Fabaceae	Erythrina velutina	12	103	45	d
+Rutaceae	Erythrochiton brasiliensis	67.7	67.7	41.3	d
+Scrophulariaceae	Esterhazya campestris	14.3	11.2	29.6	a
+Onagraceae	Fuchsia regia	14.4	28.1	28	a, c, h
+Cactaceae	Gaylussacia brasiliensis	9.3	1.3	8.8	i
+Cucurbitaceae	Gurania acuminata	6.3	13.8	11.6	g
+Rubiaceae	Hamelia patens	2.5	2.5	11.5	d
+Heliconiaceae	Heliconia angusta	22.3	36.1	29.6	a
+Heliconiaceae	Heliconia psittacorum	67.3	67.3	52.1	d
+Heliconiaceae	Heliconia richardiana	22.3	24.5	25.4	g
+Heliconiaceae	Heliconia sp.	16.4	37.3	39.5	c
+Heliconiaceae	Heliconia spathocircinata	24.1	40.6	31.8	a
+Heliconiaceae	Heliconia velloziana	25.2	45.3	35.5	a
+Malvaceae	Helicteres macropetala	7.7	7.7	10.7	d
+Rubiaceae	Hillia illustris	12.3	27.6	54.7	c
+Amaryllidaceae	Hippeastrum aviflorum	14.4	96.8	79.3	a
+Amaryllidaceae	Hippeastrum stylosum	97.4	97.4	49	d
+Bromeliaceae	Hohenbergia ridleyi	41.5	10	15	f
+Convolvulaceae	Ipomoea hederifolia	13.7	13.7	28.7	d
+Convolvulaceae	Ipomoea quamoclit	12.8	12.8	25.6	d
+Bignoniaceae	Jacaranda puberula	26.7	5.4	32.8	c
+Caricaceae	Jacaratia spinosa	12.9	12	12	c
+Acanthaceae	Justicia carnea	21	14.2	34	a, c
+Acanthaceae	Justicia sebastianopolitanae	22	11.5	30	h
+Crassulaceae	Kalanchoe sp.	18.8	10.9	35.5	c
+Lobeliaceae	Lobelia fistulosa	16.2	28.2	32.1	a
+Bignoniaceae	Lundia cordata	55.9	55.8	45.6	d
+Bromeliaceae	Lymania brachycaulis	23	59	26	g
+Apocynaceae	Mandevilla guanabarica	31.9	56.6	34.7	i
+Rubiaceae	Manettia cordifolia	9.9	6.7	42.5	a, d
+Rubiaceae	Manettia mirtis	17.2	25.5	30	h
+Rubiaceae	Manettia pubescens	25.2	26.2	42.9	a
+Acanthaceae	Mendoncia velloziana	19.1	29.8	34.5	c
+Fabaceae	Mucuna sloanei	10	200	40	d
+Musaceae	Musa ornata	18.6	62.4	42.1	c
+Asteraceae	Mutisia coccinea	22.9	8.5	42.9	a
+Gesneriaceae	Nematanthus corticola	21.6	8.5	63.3	g
+Gesneriaceae	Nematanthus crassifolius	26.5	12.5	40	h
+Gesneriaceae	Nematanthus fissus	27.5	9.6	29.6	a
+Gesneriaceae	Nematanthus fluminensis	20.6	3	52.3	a
+Gesneriaceae	Nematanthus fornix	21.9	3	29.6	a
+Gesneriaceae	Nematanthus gregarius	24.6	15.2	25	c
+Gesneriaceae	Nematanthus striatus	23.7	20.4	22.6	c
+Bromeliaceae	Neoregelia cruenta	30.1	66.8	30.3	i
+Bromeliaceae	Neoregelia johannis	44.2	54.1	25.7	a
+Bromeliaceae	Nidularium angustibracteatum	30.2	16.5	43.2	a
+Bromeliaceae	Nidularium innocentii	30	60.9	44.3	a, c, k
+Bromeliaceae	Nidularium krisgreeniae	24.1	16.9	33.3	c
+Bromeliaceae	Nidularium marigoi	29.5	16	43.7	a
+Bromeliaceae	Nidularium procerum	39.9	23.3	43.4	a, c
+Bromeliaceae	Nidularium rubens	30.7	188.8	36.4	k
+Marcgraviaceae	Norantea brasiliensis	12.6	150	23.8	a
+Acanthaceae	Odontonema barlerioides	17.4	15	40	h
+Rubiaceae	Palicourea crocea	24.4	14.6	18.3	l
+Passifloraceae	Passiflora alliacea	31.3	89.2	25	i
+Bromeliaceae	Pitcairnia flammea	13.8	34	30	h
+Bromeliaceae	Portea leptantha	23.9	23.9	24.5	d
+Cucurbitaceae	Psiguria triphylla	58.5	58.5	15	d
+Rubiaceae	Psychotria nuda	18	2.1	19	a
+Rubiaceae	Psychotria pubigera	25.5	4.2	11.9	a
+Fabaceae	Pueraria phaseoloides	30.8	48	20.3	g
+Bignoniaceae	Pyrostegia venusta	25.3	12.8	50.4	a
+Bromeliaceae	Quesnelia arvensis	22.2	6.5	20.6	a
+Bromeliaceae	Quesnelia augustocoburgii	24	35	30	h
+Bromeliaceae	Quesnelia marmorata	28.5	9.5	25.1	a
+Acanthaceae	Ruellia brevifolia	28	5.2	26	m
+Acanthaceae	Ruellia cearensis	15	15	41.8	d
+Lamiaceae	Salvia arenaria	26	4.8	15.7	a
+Lamiaceae	Salvia balaustina	22.5	4.4	36.6	a
+Lamiaceae	Salvia sellowiana	27.5	20.5	40	h
+Acanthaceae	Saurogyne itatiaiae	15	2	10	h
+Cactaceae	Schlumbergera opuntioides	38.5	56	36.3	a
+Marcgraviaceae	Schwartzia brasiliensis	4.6	34.3	29	c, o
+Gesneriaceae	Sinningia cochlearis	22.5	7	26.4	n
+Gesneriaceae	Sinningia douglasii	26.9	6.3	32.8	a
+Gesneriaceae	Sinningia sp.	25.9	13.6	31	c
+Gesneriaceae	Sinningia tuberosa	25.7	2.6	28.1	n
+Campanulaceae	Siphocampylus sulfureus	14.2	11.5	25.1	a
+Campanulaceae	Siphocampylus westinianus	20	17.1	31.4	a
+Malvaceae	Spirotheca passifloroides	6	141.9	48.4	c
+Malvaceae	Spirotheca rivieri	6	141.9	48.4	o
+Orchidaceae	Stenorrhynchos lanceolatus	10.3	9.9	19.3	d
+Bignoniaceae	Tabebuia serratifolia	28	4.2	59.7	c
+Bromeliaceae	Tillandsia gardneri	3.5	3.5	17.1	d
+Bromeliaceae	Tillandsia geminiflora	21.1	48.8	17.9	k
+Bromeliaceae	Tillandsia stricta	18.5	16.6	17.2	a, c, d, i
+Bromeliaceae	Tillandsia tenuifolia	20.5	30.7	17	k
+Gesneriaceae	Vanhouttea brueggeri	26.9	21.2	35.9	n
+Gesneriaceae	Vanhouttea calcarata	23.1	24.1	28.6	n
+Gesneriaceae	Vanhouttea gigantifolia	22.4	10.1	38.9	n
+Gesneriaceae	Vanhouttea hilariana	28.1	19.5	36.6	n
+Scrophulariaceae	Velloziella dracocephaloides	11.8	32.5	45.8	a
+Bromeliaceae	Vriesea carinata	25.5	110.9	40	c, k
+Bromeliaceae	Vriesea drepanocarpa	30.4	25	40.4	c
+Bromeliaceae	Vriesea ensiformis	21.3	28.3	46.5	c, g
+Bromeliaceae	Vriesea erythrodactylon	7.3	12.4	31.5	c
+Bromeliaceae	Vriesea flammea	21.5	134.5	37	k
+Bromeliaceae	Vriesea incurvata	20	182.8	42.5	c, k
+Bromeliaceae	Vriesea neoglutinosa	19.2	84.1	34	i
+Bromeliaceae	Vriesea philippocoburgii	23.5	39.3	28.6	c, k
+Bromeliaceae	Vriesea platynema	20.9	220.6	27.8	c
+Bromeliaceae	Vriesea rodigasiana	25.3	15.2	27.8	a, c
+Bromeliaceae	Vriesea unilateralis	5.7	24	28	c
+Bromeliaceae	Vriesea vagans	26.3	21.4	28.6	c
+Bromeliaceae	Vrisea procera	20.2	43.5	44	g
+Bromeliaceae	Wittrockia cyathiformis	32.4	23.5	39.7	a
