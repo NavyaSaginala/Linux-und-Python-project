@@ -3,11 +3,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
+# To get the current working directory
 print(os.getcwd())
 
 file_path = '/Users/navyasrinivas/Desktop/Data compilation of hummingbird-pollinated plant species.xlsx'
 
-# Read Excel file into a DataFrame
+# Reading Excel file into a DataFrame
 df = pd.read_excel(file_path)
 print(df.head())
 
@@ -15,7 +16,7 @@ nectar_volume = df['Nectar_Volume']
 corolla_length = df['Corolla_length']
 
 # PGLS analysis
-pgls_model = sm.GLS(nectar_volume, sm.add_constant(corolla_length), correlation=sm.cov_struct.Exchangeable())
+pgls_model = sm.GLSAR(nectar_volume, sm.add_constant(corolla_length), 1)
 pgls_results = pgls_model.fit()
 print(pgls_results.summary())
 
@@ -32,7 +33,7 @@ plt.plot(corolla_length, intercept + slope * corolla_length, color='red', label=
 # labels, title, and legend
 plt.xlabel('Corolla Length (mm)')
 plt.ylabel('Nectar Volume (µl)')
-plt.title('Responses of the Nectar Volume to the Corolla Length')
+plt.title('Relationship between Nectar Volume and Corolla Length in Hummingbird-Pollinated Plants')
 plt.legend()
 
 # Show the plot
