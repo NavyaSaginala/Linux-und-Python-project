@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
-# To get the current working directory
+# Current working directory
 print(os.getcwd())
 
 file_path = '/Users/navyasrinivas/Desktop/Data compilation of hummingbird-pollinated plant species.xlsx'
@@ -12,6 +12,7 @@ file_path = '/Users/navyasrinivas/Desktop/Data compilation of hummingbird-pollin
 df = pd.read_excel(file_path)
 print(df.head())
 
+# Extract nectar volume and corolla length columns
 nectar_volume = df['Nectar_Volume']
 corolla_length = df['Corolla_length']
 
@@ -20,7 +21,7 @@ pgls_model = sm.GLSAR(nectar_volume, sm.add_constant(corolla_length), 1)
 pgls_results = pgls_model.fit()
 print(pgls_results.summary())
 
-# Extracting model parameters
+# Extracting parameters
 intercept = pgls_results.params[0]
 slope = pgls_results.params[1]
 
