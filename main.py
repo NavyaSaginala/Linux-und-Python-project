@@ -30,11 +30,11 @@ plt.scatter(corolla_length, nectar_volume, c='blue', marker='o', label='Nectar V
 # PGLS regression line
 plt.plot(corolla_length, intercept + slope * corolla_length, color='red', label='PGLS Regression')
 
-# labels, title, and legend
+# Adding labels, title, legend
 plt.xlabel('Corolla Length (mm)')
 plt.ylabel('Nectar Volume (µl)')
 plt.title('Relationship between Nectar Volume and Corolla Length in Hummingbird-Pollinated Plants')
 plt.legend()
 
-# Show the plot
+# Displaying the plot
 plt.show()
