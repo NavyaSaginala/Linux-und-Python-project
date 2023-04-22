@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Linux-und-Python-project
 =======
-Project Title: Scatter plot to show the responses of the Nectar volume to the Corolla length
+Project Title: Scatter plot to show the relationship between Nectar Volume and Corolla Length in Hummingbird-Pollinated Plants 
 
 Overview:
 
